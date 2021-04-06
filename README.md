@@ -15,7 +15,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-I am 34 years old and I'm a web developer for 3 years. I live next to Metz.
+🍀 I am 34 years old and I'm a web developer for 3 years. I live next to Metz.
 
 My English is not very good 😊, but I can read and understand technical documentation, write emails... Speaking is more difficult for me ! But I'm motivated and not afraid to learn 🤙
 
