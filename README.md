@@ -15,6 +15,9 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-I'm a 34 year-old French web developer. I live next to Metz.
+I am 34 years old and I'm a web developer for 3 years. I live next to Metz.
 
-💻 I mainly work with Symfony (4 & 5), HTML/CSS, JS.
+My English is not very good 😊, but I can read and understand technical documentation, write emails... Speaking is more difficult for me ! But I'm motivated and not afraid to learn 🤙
+
+💻 I mainly work with Symfony (4 & 5), HTML/CSS, JS. Again, I am not afraid to learn : I had the opportunity to do internships where I worked with python (Odoo) and Ruby on Rails.
+
