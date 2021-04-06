@@ -14,3 +14,7 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+I'm a 34 year-old French web developer. I live next to Metz.
+
+💻 I mainly work with Symfony (4 & 5), HTML/CSS, JS.
