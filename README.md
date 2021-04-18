@@ -21,4 +21,4 @@ My English is not very good 😊, but I can read and understand technical docume
 
 💻 I mainly work with Symfony (4 & 5), HTML/CSS, JS. Again, I am not afraid to learn : I had the opportunity to do internships where I worked with python (Odoo) and Ruby on Rails.
 
-🙌 I am not an experienced person in any field, but I like to learn a lot about different subjects !
+🙌 I’m not an expert in a field, but I like to learn a lot about different subjects !
